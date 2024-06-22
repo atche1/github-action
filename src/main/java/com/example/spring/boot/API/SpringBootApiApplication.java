@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@OpenAPIDefinition(info = @Info(title = "Product API", description = "product microservice"))
+@OpenAPIDefinition(info = @Info(title = "Product API", description = "product microservicee"))
 public class SpringBootApiApplication {
 
 	public static void main(String[] args) {
